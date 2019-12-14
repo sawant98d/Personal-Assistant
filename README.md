@@ -12,3 +12,5 @@ This personal assistant with do different tasks such as opening the google, yout
 # For reading content from wikipedia
   #pip install wikipedia
   
+# NOTE :
+  #This application / personal assistent project is still not developed. More features will be added on upcoming days. Features such as GUI and many more user command etc.
